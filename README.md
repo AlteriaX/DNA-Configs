@@ -7,8 +7,9 @@ No performance optimizations, expect lower FPS and higher VRAM usage
 
 List of changes done:
 - Disable post processing effects (Remove lines in file if you want the effect back)
-- Disable sharpening
+- Reduce sharpening
 - Reduce bloom brightness
 - Better Ambient Occlusion
 - Higher shadow resolution
 - Higher view distance
+- Tweak TAA
